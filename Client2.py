@@ -1,6 +1,6 @@
 import socket
 
-UDP_HOST = '192.168.1.131'  # Adresa serverului
+UDP_HOST = 'X.X.X.X'  # Adresa serverului
 UDP_PORT = 12346            # Portul serverului UDP
 
 # Creează socket pentru clientul UDP
